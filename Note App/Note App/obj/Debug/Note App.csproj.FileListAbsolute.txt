@@ -1,0 +1,12 @@
+D:\C#\Note App\Note App\bin\Debug\Note App.exe.config
+D:\C#\Note App\Note App\bin\Debug\Note App.exe
+D:\C#\Note App\Note App\bin\Debug\Note App.pdb
+D:\C#\Note App\Note App\obj\Debug\Note App.csprojAssemblyReference.cache
+D:\C#\Note App\Note App\obj\Debug\Note_App.Properties.Resources.resources
+D:\C#\Note App\Note App\obj\Debug\Note App.csproj.GenerateResource.cache
+D:\C#\Note App\Note App\obj\Debug\Note App.exe
+D:\C#\Note App\Note App\obj\Debug\Note App.pdb
+D:\C#\Note App\Note App\obj\Debug\Note_App.warningPopup.resources
+D:\C#\Note App\Note App\obj\Debug\Note_App.TheIndex.resources
+D:\C#\Note App\Note App\obj\Debug\Note_App.Search.resources
+D:\C#\Note App\Note App\obj\Debug\Note_App.SolutionInfo.resources
